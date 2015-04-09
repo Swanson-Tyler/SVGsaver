@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="12cm" height="4cm" viewBox="0 0 1200 400"
+	 xmlns="http://www.w3.org/2000/svg" version="1.1">
+<desc>Example polyline01 - increasingly larger bars</desc>
+<!-- Show outline of canvas using 'rect' element -->
+<path d="M75.18797,85.43798
+			  L 79.198,77.48223 
+			  L 84.210526,73.64728 
+			  L 94.23559,72.01696 
+			  L 101.25313,74.83546 
+			  L 105.61568,79.198 
+			  L 108.434166,91.228065 
+			  L 105.61568,98.24561 
+			  L 101.25313,102.608154 
+			  L 94.23559,105.42664 
+			  L 89.22306,105.42664 
+			  L 81.7152,102.255646 
+			  L 75.80109,94.23559 
+			  L 74.906204,87.21805 
+  z"
+fill="none" stroke="blue" stroke-width="1" />
+<path d="M214.53633,239.20372
+			  L 219.00041,227.56891 
+			  L 230.57645,217.27536 
+			  L 239.59898,214.45818 
+			  L 252.31604,215.53883 
+			  L 259.6491,219.00041 
+			  L 269.9427,230.57645 
+			  L 272.89386,240.60149 
+			  L 268.21765,259.6491 
+			  L 259.6491,268.21765 
+			  L 246.61653,272.89386 
+			  L 227.56891,268.21765 
+			  L 216.54137,255.04286 
+			  L 214.32422,240.60149 
+  z"
+fill="none" stroke="blue" stroke-width="1" />
+</svg>
